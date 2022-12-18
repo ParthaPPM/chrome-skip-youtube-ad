@@ -9,5 +9,5 @@ This extension simply clicks on the "Skip Ads" or "Skip Ad" button as soon as it
 2. Open browser, and go to "Manage extensions"
 3. Enable the developer mode
 4. Click on the "Load unpacked" button
-5. Select the extracted folder (i.e. skip-youtube-ad)
+5. Select the extracted folder (i.e. the folder containing the manifest.json file)
 6. The Extension is now added to your browser
