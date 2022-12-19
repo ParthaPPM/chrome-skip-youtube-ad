@@ -1,11 +1,11 @@
 {
 	"manifest_version": 3,
-	"name": "Skip Youtube Ad",
+	"name": "Skip YouTube Ad",
 	"version": "0.1.0",
 	"description": "An extension to skip add in youtube whenever the button is visible.",
 
 	"action": {
-		"default_title": "Skip Youtube Ad",
+		"default_title": "Skip YouTube Ad",
 		"default_popup": "popup.html"
 	},
 
