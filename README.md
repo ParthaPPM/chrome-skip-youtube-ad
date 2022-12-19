@@ -1,5 +1,5 @@
 # Skip YouTube Ad
-This is a Chrome extension that can be added to any chromium bases browser.
+This is a Chrome extension that can be added to any chromium based browser.
 
 This extension simply clicks on the "Skip Ads" or "Skip Ad" button as soon as it is enabled in YouTube.
 
