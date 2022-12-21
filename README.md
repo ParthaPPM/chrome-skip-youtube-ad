@@ -11,3 +11,5 @@ This extension simply clicks on the "Skip Ads" or "Skip Ad" button as soon as it
 4. Click on the "Load unpacked" button
 5. Select the extension folder (i.e. the folder containing the manifest.json file)
 6. The Extension is now added to your browser
+
+**Note:-** This is just a product of my hobby.
