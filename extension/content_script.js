@@ -39,9 +39,9 @@ chrome.storage.onChanged.addListener((changes, area) => {
 // this is the function that is called when DOM is changed or modified
 function clickSkipAd(mutation, observer)
 {
-	var skipAddElement = document.evaluate("//*[contains(text(), 'Skip Ad')]", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-	if (skipAddElement != null)
+	var skipAdElement = document.evaluate("//*[contains(text(), 'Skip Ad')]", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+	if (skipAdElement != null)
 	{
-		skipAddElement.click();
+		skipAdElement.click();
 	}
 }
